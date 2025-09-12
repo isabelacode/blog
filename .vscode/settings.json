@@ -25,7 +25,7 @@
   "code-runner.executorMap": {
     "typescript": "clear ; npx tsx"
   },
-  
+
   "tailwindCSS.experimental.classRegex": [
     ["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
   ],
